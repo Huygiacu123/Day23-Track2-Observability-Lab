@@ -5,6 +5,7 @@ __pycache__/
 .venv/
 venv/
 .pytest_cache/
+.claude/
 
 # Lab artifacts (generated)
 benchmarks/*.csv
@@ -15,3 +16,5 @@ submission/screenshots/*.jpg
 # Local OS junk
 .DS_Store
 Thumbs.db
+
+CLAUDE.md
